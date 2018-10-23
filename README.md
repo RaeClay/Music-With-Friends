@@ -29,7 +29,7 @@ If you still find yourself having difficulty connecting with your friends, pleas
 
 ## How to get involved
 
-We are constantly in touch with our community in the forums. Make sure to read the community guidelines before you create your first thread or post. 
+We are constantly in touch with our community in the forums. Make sure to read the [code of conduct](CODE-OF-CONDUCT.md) and [license](LICENSE.md) before you create your first thread or post. 
 
 ## Now get in and create
 ![Jammin](https://media.giphy.com/media/3oEjHGme46cvuu8MDK/giphy.gif)
