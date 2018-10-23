@@ -1,3 +1,4 @@
+[logo](https://imgur.com/a/eeus1TA)
 ## Welcome to the program.
 
 The purpose of this open source project is to create music in a cooperative environment. Invite your friends to your server and create music together in our *Garage Band* like interface. Create music with up to five other people at a time and save your creations locally, or upload them to our community forums.
